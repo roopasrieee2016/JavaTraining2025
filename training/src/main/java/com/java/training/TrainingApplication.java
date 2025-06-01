@@ -8,7 +8,11 @@ public class TrainingApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hai");
+<<<<<<< HEAD
 		System.out.println("featureB");
+=======
+		System.out.println("featureA");
+>>>>>>> f6ce658 (featureA)
 		SpringApplication.run(TrainingApplication.class, args);
 	}
 
